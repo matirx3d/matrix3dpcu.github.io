@@ -38,10 +38,10 @@
 <br><br>
 # [관련 이미지 & 동영상]
 - 이미지  
-<img src="./img/1.png">
+<img src="./img/1.PNG">
 
 * 동영상
-[![액션장면-38초부터](./img/3.png)](https://www.youtube.com/watch?v=eeP9X-Gy9Vk)
+[![액션장면-38초부터](./img/3.PNG)](https://www.youtube.com/watch?v=eeP9X-Gy9Vk)
 
 
 <br><br>
