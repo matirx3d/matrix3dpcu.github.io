@@ -193,3 +193,8 @@
 > 이미지
 <img src="./img/s1.PNG">
 <img src="./img/s2.PNG">
+
+<br>
+
+> 동영상
+![](./img/s1.mp4)
